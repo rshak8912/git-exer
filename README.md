@@ -1,4 +1,5 @@
 Contry
+- feature/c rebase auto merge 
 
 - pop 테스트
 - pull test

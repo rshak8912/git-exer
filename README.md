@@ -4,5 +4,5 @@ Contry
 - pull test
 - stash test
 
-- fast forward exer
+- fast forward exer / conflict test
 - 3-way other

@@ -1,4 +1,7 @@
 Contry
+- rebase 1.2.
+- rebase 3.
+
 - main -rebase conflict
 - feature/c rebase auto merge 
 
